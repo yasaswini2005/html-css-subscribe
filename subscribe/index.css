@@ -1,0 +1,117 @@
+*{
+    box-sizing: border-box;
+    padding: 0%;
+     margin: 0%;
+     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+.one{
+    height: 93vh;
+}
+.footer{
+
+    height: 8vh;
+    background-color: black;
+    color: white;
+    
+}
+.footer h1{
+    color: azure;
+ text-align: center;
+    font-size: 20px;
+    font-weight: 100;
+    width: 80%;
+    margin: auto;
+}
+.box1{
+    width:39%;
+
+    margin: auto;
+    font-size: 53px;
+    font-weight:670;
+
+}
+.box2{
+    font-size: 30px;
+    width: 55%;
+    margin: auto;
+    
+}
+.card{
+    display: flex;
+}
+.quick a{
+    display: flex;
+    height: 30v;
+    color: grey;
+    font-size: 20px;
+    text-decoration: none;
+        display: flex;
+
+}
+.org{
+    width: 30vh;
+}
+.quick{
+    width:42vh;
+    
+}
+.cord-one{
+    width: 30%;
+    
+}
+.card-one h2{
+
+        color: grey;
+    font-size: 20px;
+    
+    
+}
+.cells a{
+color: grey;
+font-size: 20px;
+text-decoration: none;
+    display: flex;
+}
+.org a{
+    color: grey;
+    font-size: 20px;
+    text-decoration: none;
+        display: flex;
+    display: flex;
+
+}
+.p a {      display: flex;
+    display: flex;
+    text-decoration: none;
+}
+.button{
+ 
+}
+.box3{
+    display: flex;
+    border: 2px solid black;
+    height: 8vh; width: 50%;
+     margin: auto;
+     border-radius: 6px;
+     margin-bottom: 90px;
+}
+::placeholder{
+  margin-right: 20px;
+    font-size: 25px;
+}
+.card{
+   width: 88%;
+   margin: auto;
+}
+.card h1{
+    color: grey;
+    font-size: 25px;
+}
+.box2{
+    margin-top: 20px;
+    margin-bottom: 60px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
